@@ -15,8 +15,7 @@
 ## Features
 - Stealth command execution)
 - Bypass for WAF/disables, restricted configs
-- File manager, zip, symlink, chmod, edit, PNG icons
-
-...
+- File manager, zip, chmod, edit, create dir, create file, download file
+- 
 
 **For educational and authorized use only.**
