@@ -1,2 +1,22 @@
-# c99shell-v2025
- Legendary c99 shell reborn for 2025. Modern stealth PHP webshell
+# c99shell v2025
+
+**Reborn by privdayz.com**
+
+*(A modern, stealth PHP webshell focused on WAF bypass and post-exploitation)*
+
+---
+
+## Screenshot
+
+![c99shell v2025 Screenshot](https://privdayz.com/wp-content/uploads/c99-shell.jpg)
+
+---
+
+## Features
+- Stealth command execution)
+- Bypass for WAF/disables, restricted configs
+- File manager, zip, symlink, chmod, edit, PNG icons
+
+...
+
+**For educational and authorized use only.**
