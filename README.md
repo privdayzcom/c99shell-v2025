@@ -1,4 +1,4 @@
-# c99shell v2025
+# c99 shell v2025
 
 **Reborn by privdayz.com**
 
